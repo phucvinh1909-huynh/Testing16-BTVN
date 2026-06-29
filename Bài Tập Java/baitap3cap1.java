@@ -1,6 +1,6 @@
-import java.util.Scanner;
 
 public class baitap3cap1 {
+}
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Nhập so nguyen: ");
@@ -14,4 +14,4 @@ public class baitap3cap1 {
         }
         System.out.println("Tong tat ca so chan la: " + ketQua);
     }
-}
+
