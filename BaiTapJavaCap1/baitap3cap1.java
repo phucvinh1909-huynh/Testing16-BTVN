@@ -1,4 +1,3 @@
-
 public class baitap3cap1 {
 }
     public static void main(String[] args) {
